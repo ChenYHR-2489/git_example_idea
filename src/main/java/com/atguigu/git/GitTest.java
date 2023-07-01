@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hello git第三次修改，本次体验的是直接从项目目录右键commit,跳过add操作");
         System.out.println("hello git4 from hot-fix");
         System.out.println("hello git4 from master,这条也是为了测试一下合并冲突！");
+        System.out.println("hello git4 from hot-fix,这条是为了冲突合并产生的！");
     }
 }
