@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hello git4 from master,这条也是为了测试一下合并冲突！");
         System.out.println("hello git4 from hot-fix,这条是为了冲突合并产生的！");
         System.out.println("push 远程库");
+        System.out.println("push2  第二次push远程库");
     }
 }
