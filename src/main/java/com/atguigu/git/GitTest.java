@@ -10,6 +10,6 @@ public class GitTest {
         System.out.println("hello git4 from hot-fix,这条是为了冲突合并产生的！");
         System.out.println("push 远程库");
         System.out.println("push2  第二次push远程库");
-        String str = "这条代码是从网页端的github上面写的，为了测试从IDEA中pull代码到本地库"
+        String str = "这条代码是从网页端的github上面写的，为了测试从IDEA中pull代码到本地库";
     }
 }
